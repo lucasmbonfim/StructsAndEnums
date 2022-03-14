@@ -1,0 +1,13 @@
+C:\dev\Structs\bin\Debug\netcoreapp3.1\Structs.exe
+C:\dev\Structs\bin\Debug\netcoreapp3.1\Structs.deps.json
+C:\dev\Structs\bin\Debug\netcoreapp3.1\Structs.runtimeconfig.json
+C:\dev\Structs\bin\Debug\netcoreapp3.1\Structs.runtimeconfig.dev.json
+C:\dev\Structs\bin\Debug\netcoreapp3.1\Structs.dll
+C:\dev\Structs\bin\Debug\netcoreapp3.1\Structs.pdb
+C:\dev\Structs\obj\Debug\netcoreapp3.1\Structs.csprojAssemblyReference.cache
+C:\dev\Structs\obj\Debug\netcoreapp3.1\Structs.AssemblyInfoInputs.cache
+C:\dev\Structs\obj\Debug\netcoreapp3.1\Structs.AssemblyInfo.cs
+C:\dev\Structs\obj\Debug\netcoreapp3.1\Structs.csproj.CoreCompileInputs.cache
+C:\dev\Structs\obj\Debug\netcoreapp3.1\Structs.dll
+C:\dev\Structs\obj\Debug\netcoreapp3.1\Structs.pdb
+C:\dev\Structs\obj\Debug\netcoreapp3.1\Structs.genruntimeconfig.cache
